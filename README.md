@@ -38,3 +38,4 @@ The leading cause of customer-side cancellations was "Driver is not moving towar
 Average driver and customer ratings were nearly identical (~4.0 out of 5), indicating balanced satisfaction on both sides of completed rides.
 
 SNAPSHOT
+https://github.com/shrutiwaghmarehubstack/OLA-Analytics/blob/main/DASHBOARD/SNAPSHOT%20OF%20DASHBOARD.png
